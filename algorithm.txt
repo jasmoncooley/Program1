@@ -1,0 +1,4 @@
+get the numerical length of the margins
+keep track of the current line's input and length
+For every word, does each word fit the maximum input line
+if it does not fit the maximum input line, start a new line

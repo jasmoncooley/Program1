@@ -1,0 +1,3 @@
+Get contents from a text files
+Take margins and apply them with the new output
+Consider sentences and make sure the sentences does not exceed the margins

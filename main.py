@@ -1,6 +1,6 @@
 def createNewFile(file,rightMarg,leftMarg):
   
-  max =50
+  max =80
   length = 0
   margRSpace = " " * rightMarg
   margLSpace = " " * leftMarg

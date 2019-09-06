@@ -24,5 +24,5 @@ def createNewFile(file,rightMarg,leftMarg):
   
   
 if __name__ == "__main__":
-    createNewFile("data.txt",6,5)
+    createNewFile("data.txt",5,7)
   

@@ -1,0 +1,40 @@
+     I am currently studying postulate       
+     theorems for triangles. I have been informed       
+     that you are looking for faster ways to       
+     make sure wingtips on airplanes are       
+     congruent. We took the initiative to make your       
+     job way easier by sharing the results to       
+     our research. My classmates and I have       
+     performed tests to see what postulates are the       
+     quickest and most efficient methods. With these       
+     postulates, we can quickly measure 3 parts of the       
+     triangle instead of 6 to make sure they are       
+     congruent. These postulates are Side-Side-Side       
+     (SSS), Side-Angle-Side (SAS),       
+     Angle-Side-Angle (ASA), and Angle-Angle-Side (AAS).       
+     These postulates will make your job easier       
+     each day. Each postulate means different       
+     things, so it’s best to explain them to you.       
+     Since we can easily use three parts of the       
+     triangle to find congruency, we will use       
+     postulates that use 3 parts. Side-Side-Side is a       
+     postulate that finds sets of congruent sides       
+     from 2 triangles. Side-Angle-Side is a       
+     postulate that finds 2 sets of congruent sides,       
+     but there is one set of angles that are       
+     placed between two sides. Angle-Side-Angle is       
+     a postulate that finds two sets of       
+     congruent angles, but there is one set of sides       
+     that are congruent that are placed between       
+     two angles in one triangle.       
+     Angle-Angle-Side is a postulate that finds two sets of       
+     angles that are congruent, but one set of       
+     sides that are far away from the angles.       
+     However, while all of these postulates would       
+     work, my classmates and I believe that the       
+     SAS postulate is going to help you best.       
+     We used this example of triangles in       
+     order to prove that the easiest and quickest       
+     way to prove a set of triangles are       
+     congruent is through the Side-Angle-Side       
+     Postulate. 
